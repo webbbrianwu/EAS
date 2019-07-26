@@ -12,6 +12,7 @@ namespace CAGitStart
         {
             Console.WriteLine("Start work,Hello world!");
             Console.WriteLine("2end write code！");
+            Console.WriteLine("by myself do!");
         }
     }
 }
